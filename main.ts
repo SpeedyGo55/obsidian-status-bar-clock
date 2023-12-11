@@ -1,5 +1,5 @@
 import { App, Plugin, PluginSettingTab, Setting } from 'obsidian';
-import moment from "moment/moment";
+import moment from 'moment';
 
 interface ObsidianClockSettings {
 	clockFormatting: string;
