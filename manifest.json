@@ -3,7 +3,7 @@
 	"name": "Status Bar Clock",
 	"version": "1.0.0",
 	"minAppVersion": "0.1.0",
-	"description": "Displays the Current Time in the Status Bar at the Bottom Right",
+	"description": "Displays a minimalistic Digital Clock in the Status Bar at the bottom Right",
 	"author": "SpeedyGo55",
 	"authorUrl": "https://github.com/speedygo55",
 	"fundingUrl": "https://www.buymeacoffee.com/speedygo55",
